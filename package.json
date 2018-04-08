@@ -1,0 +1,27 @@
+{
+  "name": "proserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nilotpalchanda/proserver.git"
+  },
+  "author": "Nilotpal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nilotpalchanda/proserver/issues"
+  },
+  "homepage": "https://github.com/Nilotpalchanda/proserver#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "lodash": "^4.17.5"
+  },
+    "script": {
+    "start": "node server.js"
+  }
+}
